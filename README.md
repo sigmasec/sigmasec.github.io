@@ -2,10 +2,6 @@
 Official Sigma Security Website<br><br>
 
 [View at sigmasec.me](https://sigmasec.me)
-<a href="https://github.com/sigmasec/sigmasec.github.io/issues">
-      <img alt="Issues" src="https://img.shields.io/github/sigmasec/sigmasec.github.io/Friday?color=0088ff" />
-<a href="https://github.com/sigmasec/sigmasec.github.io/pulls">
-      <img alt="Pulls" src="https://img.shields.io/github/issues-pr/sigmasec/Friday?color=0088ff" />
 
 </br>
 
